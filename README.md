@@ -58,7 +58,7 @@ Experienced Civil Engineering professional with more than **7 years of experienc
 ## 📞 Contact Information
 *   📍 **Address:** Quezon City, Philippines 1119
 *   📱 **Mobile:** +63 954-2559-235
-*   📧 **Email:** javarcosain8@gmail.com
+*   📧 **Email:** javar.cosain.civil@gmail.com
 *   💼 **Status:** Available for Freelance & Remote Engineering Support
 
 ---
