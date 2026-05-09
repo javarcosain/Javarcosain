@@ -1,5 +1,5 @@
 # JAVAR ALAJAS COSAIN
-> **Civil Engineering Professional** | 7+ Years Experience in Structural Drafting, QA/QC, & Project Engineering
+> **Civil Engineering Associate | Technical Design & Construction Specialist
 
 ---
 
