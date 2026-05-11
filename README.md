@@ -57,11 +57,16 @@ I am a Senior Civil Engineering Associate with over 9 years of expertise in stru
 
 ---
 
-## 📐 Personal AutoCAD Portfolio
+### 📐 **Personal AutoCAD Portfolio**
 *(Personal drafting samples and technical designs)*
 
+* **Technical Design:** [📂 View PDF & CAD Files](AutoCAD_Samples/Technical_Design/)
 * **Structural Detailing:** [📂 View PDF & CAD Files](AutoCAD_Samples/Structural/)
-* **Technical Design:** [📐 Personal Sample 2](Personal_Sample_2.jpg.jpg)
+
+### 📊 **Project Cost Estimation**
+*(Quantity surveying and cost documentation)*
+
+* **Cost Estimate:** [📂 View Documents & Excel Files](Cost_Estimate_Files/)
 
 ---
 
