@@ -22,8 +22,8 @@ I am a Senior Civil Engineering Associate with over 9 years of expertise in stru
 ### **Technical Staff / Project Engineer**
 **JQ International Construction Inc.** | *July 22, 2022 – Aug 19, 2023*
 * Provided technical support and monitoring for high-rise residential construction.
-* **Proof:** [📄 View COE](COE_JQ.jpg.jpg) | [📸 View Site Photo](Site_Photos/Work_Photo_JQ.jpg.jpg)
-
+* **Proof:** [📄 View COE](COE_JQ.jpg.jpg) | [📷 View Work Photo](Work_Photo_JQ.jpg.jpg)
+  
 ### **Rebar Engineer**
 **Coogee International Development Inc.** | *Aug 16, 2019 – Jan 31, 2022*
 * Specialized in rebar optimization and quantity estimation for premium developments.
