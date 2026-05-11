@@ -9,7 +9,6 @@
 
 ### **Structural Drafter / AutoCAD Technical II**
 **CTIPilipinas, Inc.** | *Nov 21, 2024 – Present*
-* **Role:** Leads the preparation of complex structural plans and hydraulic designs for national infrastructure.
 
 ### **Project Engineer**
 **Newington Builder Inc.** | *Aug 25, 2023 – Nov 18, 2024*
@@ -21,7 +20,7 @@
 
 ### **Rebar Engineer**
 **Coogee International Development Inc.** | *Aug 16, 2019 – Jan 31, 2022*
-* **Proof:** [📄 View COE](COE_Coogee.jpg.jpg) | [📸 View Site Photo](Site_Photos/Work_Photo_Coogee.jpg.jpg)
+* **Proof:** [📄 View COE](COE_Coogee.jpg.jpg) | [📐 View Sample Plan](Sample_Plan_Coogee.jpg.jpg) | [📸 View Site Photo](Site_Photos/Work_Photo_Coogee.jpg.jpg)
 
 ### **AutoCAD Operator**
 **MDGRUPPE - Veradical Construction Corp.** | *Oct 08, 2018 – March 15, 2019*
@@ -42,11 +41,11 @@
 
 * 🛡️ **Advanced OSH (SO3):** [🖼️ Cert 1](SO3_Cert_1.jpg.jpg) | [🖼️ Cert 2](SO3_Cert_2.jpg.jpg)
 * 🛡️ **Construction OSH (SO2):** [🖼️ View Certificate](SO2_Cert.jpg.jpg)
-* 🏗️ **DPWH Intern Engineer Training (1st District, CDO):** [🖼️ View Certificate](DPWH%20Certificate%20Of%20Training.jpg)
+* 🏗️ **DPWH Intern Training (1st District, CDO):** [🖼️ View Certificate](DPWH%20Certificate%20Of%20Training.jpg)
 * 🏆 **Procore Certified Engineer:** [🖼️ View Certificate](Procore_Cert.jpg.jpg)
 * 📐 **AutoCAD Drafting & Design:** [🖼️ View Certificate](AutoCAD_Cert.jpg.jpg)
 * 🛠️ **Computer Hardware Servicing NCII:** [🖼️ View Certificate](NCII_Cert.jpg.jpg)
-* 🎓 **Technical Training (TOT):** [🖼️ View TOT Certificate](Training%20of%20Trainers%20(TOT)%20on%20Data....jpg)
+* 🎓 **Training of Trainers (TOT):** [🖼️ View Certificate](Training%20of%20Trainers%20(TOT)%20on%20Data....jpg)
 
 ---
 
@@ -59,7 +58,9 @@
 ---
 
 ## 👤 Personal Details
-* **Date of Birth:** July 22, 1994 | **Religion:** Islam | **Civil Status:** Married
+* **Date of Birth:** July 22, 1994
+* **Religion:** Islam
+* **Civil Status:** Married
 * **Address:** 8-A Dove Str., Area 1 Sitio Veterans, Bagong Silangan, Quezon City
 
 ---
