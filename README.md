@@ -14,30 +14,20 @@
 
 ---
 
-## 🛠️ Technical Toolkit
+## 📂 Technical Credentials & Proofs
+*(I-click ang links para makita ang images)*
 
-| Category | Technical Expertise |
-| :--- | :--- |
-| **Drafting & Detailing** | AutoCAD (Expert/Lecturer), Structural Detailing, Rebar Scheduling (BBS) |
-| **Site Operations** | Technical Supervision, Civil Works Monitoring, QA/QC Inspection |
-| **Safety Knowledge** | Advanced OSH (SO3), COSH (SO2), Risk Assessment (HIRAC) |
-| **Project Support** | Quantity Take-off (QTO), Bill of Quantities (BOQ), Technical Documentation |
-
----
-
-## 📂 Technical Credentials & Proof of Experience
-*(I-click ang mga link sa ibaba para makita ang mga dokumento)*
-
-### 🛡️ Safety & Technical Certificates
-* **SO3 Safety Training Certificate** | [🖼️ View Image](SO3_Cert.jpg)
-* **AutoCAD Specialist/Lecturer Proof** | [🖼️ View Image](AutoCAD_Cert.jpg)
-* **Procore Certified Engineer** | [🖼️ View Image](Procore_Cert.jpg)
+### 🛡️ Safety & Training Certificates
+* **Advanced OSH: LCM+HIRAC (SO3)** | [🖼️ View Certificate](SO3_Cert.jpg)
+* **Construction OSH (SO2)** | [🖼️ View Certificate](SO2_Cert.jpg)
+* **AutoCAD Drafting & Designing** | [🖼️ View Certificate](AutoCAD_Cert.jpg)
+* **Procore Certified Engineer** | [🖼️ View Certificate](Procore_Cert.jpg)
 
 ### 💼 Certificates of Employment (COE)
-* **COE - CTIPilipinas, Inc.** | [🖼️ View Image](COE_CTI.jpg)
-* **COE - Newington Builder Inc.** | [🖼️ View Image](COE_Newington.jpg)
-* **COE - JQ International Construction** | [🖼️ View Image](COE_JQ.jpg)
-* **COE - Coogee International** | [🖼️ View Image](COE_Coogee.jpg)
+* **CTIPilipinas, Inc.** | [🖼️ View COE](COE_CTI.jpg)
+* **Newington Builder Inc.** | [🖼️ View COE](COE_Newington.jpg)
+* **JQ International Construction** | [🖼️ View COE](COE_JQ.jpg)
+* **Coogee International** | [🖼️ View COE](COE_Coogee.jpg)
 
 ---
 
@@ -45,19 +35,21 @@
 
 ### **Structural Drafter / AutoCAD Technical II**
 **CTIPilipinas, Inc.** | *Nov 21, 2024 – Present*
-* **Role:** Leads the preparation of complex structural plans and hydraulic designs for national infrastructure.
-* **Details:** Responsible for technical drafting of bridge components and river basin layouts. Ensures 100% accuracy in as-built plans and compliance with DPWH standards.
+* **Role:** Leads the preparation of complex structural plans and hydraulic designs.
+* **Details:** Responsible for bridge components and river basin layouts.
+* **Proof:** [📄 View Sample Plan/COE](COE_CTI.jpg)
 
 ### **Project Engineer**
 **Newington Builder Inc.** | *Aug 25, 2023 – Nov 18, 2024*
-* **Role:** Managed on-site civil works execution and manpower coordination for flood control projects.
-* **Details:** Monitored dike construction progress, conducted daily site inspections, and prepared technical reports.
+* **Role:** Managed on-site civil works and manpower for flood control.
+* **Details:** Monitored dike construction progress and safety (SO3).
+* **Proof:** [📄 View COE](COE_Newington.jpg)
 
 ---
 
 ## 🌉 Featured Project Portfolio
-* **High-Rise:** Park Triangle (54 floors), Spire Tower (48 floors), Avida Towers Verge.
-* **Infrastructure:** Ilog-Hilabangan River Basin, Bridge Projects (Malabong, Talubangi).
+* **High-Rise:** Park Triangle (54 floors), Spire Tower (48 floors).
+* **Infrastructure:** Ilog-Hilabangan River Basin, Bridge Projects.
 * **Hydraulic:** Kabacan River Flood Control Dike.
 
 ---
