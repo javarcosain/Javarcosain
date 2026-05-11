@@ -1,71 +1,82 @@
 # JAVAR ALAJAS COSAIN
-### Civil Engineering Professional | AutoCAD & Structural Specialist
+### Senior Engineering Associate | Certified Safety Officer (SO3) | AutoCAD Specialist
 📍 Quezon City, Philippines | 📱 +63 954-2559-235 | 📧 [javar.cosain.civil@gmail.com](mailto:javar.cosain.civil@gmail.com)
 
 ---
 
 ## 🏗️ Professional Profile
-Experienced Civil Engineering professional with **over 10 years of combined technical experience** (Pre & Post-Grad). Expert in AutoCAD drafting (2D/3D), structural detailing, and project engineering. Proven track record in bridge works, flood control, and high-rise construction (up to 54 storeys). Skilled in QA/QC, quantity takeoff, and cost estimation with a strong commitment to occupational safety.
+**Senior Engineering Associate** and **Certified Safety Officer (SO3)** with over **10 years of combined technical experience** in the construction and engineering industry. A **Civil Engineering Graduate (2018)** with a dual expertise in high-level **Structural Detailing** and **Occupational Safety and Health (OSH) Management**.
+
+Proven track record in technical drafting, site supervision, and safety leadership for major infrastructure projects including high-rise buildings (up to 54 storeys), bridge networks, and flood control systems. Expert in AutoCAD (2D/3D), rebar detailing, and construction documentation with a focus on precision and zero-accident standards.
 
 ---
 
-## 🛠️ Technical Skills
-- **Drafting & Design:** AutoCAD (2D & 3D), SketchUp, Structural & Rebar Detailing.
-- **Engineering Tools:** Procore, MS Office Suite (Expert Excel for Estimations).
-- **Project Management:** Site Supervision, Civil Works Monitoring, QA/QC, BOQ & Cost Estimation.
-- **Safety & Compliance:** OSH SO3/SO2 Certified, Data Privacy Risk Assessment.
+## 🛠️ Technical Skills & Safety Expertise
+- **Safety Leadership:** Certified Safety Officer (SO3), LCM + HIRAC, Construction Safety (SO2), Data Privacy Protection.
+- **Engineering Design:** AutoCAD (Expert/Lecturer level), SketchUp, Structural & Rebar Detailing, As-Built Plans.
+- **Project Engineering:** Site Supervision, Quantity Takeoff (QS), BOQ & Cost Estimation, Civil Works Monitoring.
+- **Management Software:** Procore Certified Engineer, MS Office Suite (Advanced Excel for Estimations).
 
 ---
 
-## 💼 Work Experience
+## 💼 Detailed Work Experience
 
 ### **Structural Drafter / AutoCAD Technical II**
-**CTIPilipinas, Inc.** | *Nov 21, 2024 – Present*
-*   Lead drafter for major infrastructure and hydraulic projects.
-*   *Key Projects:* Ilog-Hilabangan River Basin, Malabong Bridge, Talubangi Bridge, Camugao Bridge.
+**CTIPilipinas, Inc.** | *Nov 21, 2024 – Present (May 2026)*
+*   Lead technical drafter for large-scale hydraulic and bridge infrastructure.
+*   *Key Projects:* Ilog-Hilabangan River Basin, Malabong, Talubangi, and Camugao Bridges.
 
-### **Project Engineer**
+### **Project Engineer / Safety Lead**
 **Newington Builder Inc.** | *Aug 25, 2023 – Nov 18, 2024*
-*   Supervised construction operations and monitored civil works for flood control systems.
+*   Supervised site civil works and ensured strict implementation of construction safety protocols.
 *   *Key Project:* Construction of flood control dike along Kabacan River, North Cotabato.
 
-### **Civil Engineering Staff / Project Engineer**
+### **Technical Staff / Project Engineer**
 **JQ International Construction Inc.** | *July 22, 2022 – Aug 19, 2023*
-*   Handled project documentation, site coordination, and monitoring for high-rise residential projects.
+*   Coordinated site operations and documentation for high-density vertical developments.
 *   *Key Project:* Spire Tower (48-Storey Residential Building), Manila.
 
 ### **Rebar Engineer**
 **Coogee International Development Inc.** | *Aug 16, 2019 – Jan 31, 2022*
-*   Specialized in rebar detailing, scheduling, and quantity takeoff for major developments in BGC.
-*   *Key Projects:* Park Triangle (54-Storey Residences), Avida Towers Verge.
+*   Specialized in rebar detailing, scheduling, and quantity takeoff for luxury towers.
+*   *Key Projects:* Park Triangle 54-Storey Residences (BGC), Avida Towers Verge.
 
-### **AutoCAD Operator**
-**MDGRUPPE - Veradical Construction Corp.** | *Oct 08, 2018 – March 15, 2019*
-*   Technical drafting and as-built plan preparation.
-
-### **AutoCAD Lecturer**
-**PEAIC Inc.** | *March 18, 2016 – May 12, 2018*
-*   Conducted technical training for AutoCAD software applications.
+### **AutoCAD Operator / Lecturer**
+**PEAIC Inc. / MDGRUPPE** | *Aug 2015 – March 2019*
+*   Early career in technical drafting and providing AutoCAD instruction for engineering students.
 
 ---
 
 ## 📜 Certifications & Education
 
+### **Occupational Safety & Health (OSH) Certifications**
+- 🛡️ **Advanced OSH: Loss Control Management + HIRAC (SO3)** – *Certified Safety Officer*
+- 🛡️ **Construction Occupational Safety & Health (SO2)** – *Think Safe*
+- 🛡️ **Procore Safety Qualified:** *Suiting Up for Safety*
+- 🛡️ **Training of Trainers on Data Privacy Protection** – *DICT*
+
+### **Engineering & Technical Training**
+- 🏆 **Procore Certified Engineer** (2024)
+- 📐 **AutoCAD Drafting with Designing** – *MASCOM*
+- 💻 **Computer Hardware Servicing NCII** – *MASCOM*
+- ⚙️ **Intern Engineer** – *DPWH 1st District, CDO* (360 Hours)
+
 ### **Education**
 - **Bachelor of Science in Civil Engineering**
   *Philippines Engineering and Agro-Industrial College Inc.* (Graduated: May 12, 2018)
 
-### **Key Certifications**
-- 🏆 **Procore Certified Engineer / Safety Qualified** (Nov 2024)
-- 🛡️ **Advanced OSH: LCM+HIRAC (SO3)** – FRROHS Training Services (July 2023)
-- 🛡️ **Construction Occupational Safety & Health (SO2)** – THINK SAFE (July 2023)
-- 💻 **Computer Hardware Servicing NCII** – MASCOM (2014)
-- 📐 **AutoCAD Drafting with Designing** – MASCOM (2013)
+---
+
+## 👤 Personal Information
+- **Status:** Senior Civil Engineering Graduate (Batch 2018)
+- **Birth Date:** July 22, 1994
+- **Marital Status:** Married
+- **Religion:** Islam
 
 ---
 
 ## 📞 Character References
-*Available upon request.*
+*Professional references available upon request.*
 
 ---
 > *I hereby certify that the above information is true and correct.*
