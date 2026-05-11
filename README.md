@@ -53,7 +53,7 @@ I am a Senior Civil Engineering Associate with over 9 years of expertise in stru
 * 🏆 **Procore Certified Engineer:** [🖼️ View Certificate](Procore_Cert.jpg.jpg)
 * 📐 **AutoCAD Drafting & Design:** [🖼️ View Certificate](AutoCAD_Cert.jpg.jpg)
 * 🛠️ **Computer Hardware Servicing NCII:** [🖼️ View Certificate](NCII_Cert.jpg.jpg)
-* 🎓 **Training of Trainers (TOT):** [🖼️ View Certificate](Training_of_Trainers_Data_Privacy.jpg)
+* 🎓 **Training of Trainers (TOT):** [🖼️ View Certificate](<Training of Trainers (TOT) on Data Privacy Protection.jpg>)
 
 ---
 
