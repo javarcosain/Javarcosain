@@ -15,7 +15,7 @@
 ---
 
 ## 📂 Technical Credentials & Proofs
-*(I-click ang links para makita ang images)*
+*(I-click ang links para makita ang mga uploaded images)*
 
 ### 🛡️ Safety & Training Certificates
 * **Advanced OSH: LCM+HIRAC (SO3)** | [🖼️ View Certificate](SO3_Cert.jpg)
@@ -31,34 +31,42 @@
 
 ---
 
+## 🛠️ Technical Toolkit
+
+| Category | Technical Expertise |
+| :--- | :--- |
+| **Drafting & Detailing** | AutoCAD (Expert/Lecturer), Structural Detailing, Rebar Scheduling (BBS) |
+| **Site Operations** | Technical Supervision, Civil Works Monitoring, QA/QC Inspection |
+| **Safety Knowledge** | Advanced OSH (SO3), COSH (SO2), Risk Assessment (HIRAC) |
+| **Project Support** | Quantity Take-off (QTO), Bill of Quantities (BOQ), Technical Documentation |
+
+---
+
 ## 🏗️ Professional Experience
 
 ### **Structural Drafter / AutoCAD Technical II**
 **CTIPilipinas, Inc.** | *Nov 21, 2024 – Present*
-* **Role:** Leads the preparation of complex structural plans and hydraulic designs.
-* **Details:** Responsible for bridge components and river basin layouts.
-* **Proof:** [📄 View Sample Plan/COE](COE_CTI.jpg)
+* **Role:** Leads the preparation of complex structural plans and hydraulic designs for national infrastructure.
+* **Details:** Responsible for technical drafting of bridge components and river basin layouts. Ensures 100% accuracy in as-built plans and compliance with DPWH standards.
+* **Key Projects:** Ilog-Hilabangan River Basin, Malabong Bridge, Talubangi Bridge, Camugao Bridge.
 
 ### **Project Engineer**
 **Newington Builder Inc.** | *Aug 25, 2023 – Nov 18, 2024*
-* **Role:** Managed on-site civil works and manpower for flood control.
-* **Details:** Monitored dike construction progress and safety (SO3).
-* **Proof:** [📄 View COE](COE_Newington.jpg)
+* **Role:** Managed on-site civil works execution and manpower coordination for flood control projects.
+* **Details:** Monitored dike construction progress, conducted daily site inspections, and prepared technical reports. Integrated safety awareness (SO3) during site operations to mitigate risks.
+* **Key Project:** Construction of flood control dike along Kabacan River, North Cotabato.
 
----
+### **Technical Staff / Project Engineer**
+**JQ International Construction Inc.** | *July 22, 2022 – Aug 19, 2023*
+* **Role:** Provided technical support and monitoring for high-rise residential construction.
+* **Details:** Handled quantity take-offs, monitored concrete pouring schedules, and ensured structural detailing followed the approved design for vertical developments.
+* **Key Project:** Spire Tower (48-Storey Residential Building), Manila.
 
-## 🌉 Featured Project Portfolio
-* **High-Rise:** Park Triangle (54 floors), Spire Tower (48 floors).
-* **Infrastructure:** Ilog-Hilabangan River Basin, Bridge Projects.
-* **Hydraulic:** Kabacan River Flood Control Dike.
+### **Rebar Engineer**
+**Coogee International Development Inc.** | *Aug 16, 2019 – Jan 31, 2022*
+* **Role:** Specialized in rebar optimization and quantity estimation for premium developments.
+* **Details:** Developed precise Bar Bending Schedules (BBS) to minimize steel wastage. Conducted QA/QC inspections for rebar installation prior to pouring.
+* **Key Projects:** Park Triangle Residences (54-Storey, BGC), Avida Towers Verge.
 
----
-
-## 👤 Personal Details
-* **Date of Birth:** July 22, 1994
-* **Religion:** Islam
-* **Civil Status:** Married
-* **Address:** 8-A Dove Str., Area 1 Sitio Veterans, Bagong Silangan, Quezon City
-
----
-> *I hereby certify that the above information is true and correct.*
+### **AutoCAD Operator**
+**MDGRUPPE - Veradical Construction Corp.** | *Oct 08, 2018 – March 1
