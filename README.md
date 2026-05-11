@@ -1,9 +1,8 @@
 # JAVAR ALAJAS COSAIN
-### Senior Engineering Associate • Structural Detailing & Drafting
-**AutoCAD Expert (2D/3D) | Safety-Certified (SO3)**
+### Senior Engineering Associate | Structural Detailing & Drafting
+### AutoCAD Expert (2D/3D) | Safety-Certified (SO3)
 
-**Professional Summary**  
-A highly skilled **Senior Engineering Associate** and **Civil Engineering Graduate (2018)** with over **10 years of combined experience** in technical drafting, structural detailing, and site engineering. Proven expertise in delivering high-precision AutoCAD designs and managing technical documentation for massive infrastructure projects, including 50+ storey high-rises and major hydraulic systems. Committed to operational excellence and site safety, backed by advanced **SO3 Safety Training** and a deep understanding of structural integrity and quality control.
+**Professional Summary** A highly skilled **Senior Engineering Associate** and **Civil Engineering Graduate (2018)** with over **10 years of combined experience** in technical drafting, structural detailing, and site engineering. Proven expertise in delivering high-precision AutoCAD designs and managing technical documentation for massive infrastructure projects, including 50+ storey high-rises and major hydraulic systems. Committed to operational excellence and site safety, backed by advanced **SO3 Safety Training** and a deep understanding of structural integrity and quality control.
 
 ---
 
