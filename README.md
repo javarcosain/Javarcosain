@@ -49,7 +49,7 @@
 **Coogee International Development Inc.** | *Aug 16, 2019 – Jan 31, 2022*
 * **Role:** Specialized in rebar optimization and quantity estimation for premium developments.
 * **Details:** Developed precise Bar Bending Schedules (BBS) to minimize steel wastage. 
-* **Proof:** [🖼️ View COE](COE_Coogee.jpg)
+* **Proof:** [🖼️ View COE](COE_Coogee.jpg) | [🖼️ View Sample Plan](Sample_Plan_Coogee.jpg)
 
 ### **AutoCAD Operator**
 **MDGRUPPE - Veradical Construction Corp.** | *Oct 08, 2018 – March 15, 2019*
@@ -71,7 +71,7 @@
 ---
 
 ## 📜 Certifications & Trainings
-* 🛡️ **Advanced OSH: LCM+HIRAC (SO3)** | [🖼️ View Certificate](SO3_Cert.jpg)
+* 🛡️ **Advanced OSH: LCM+HIRAC (SO3)** | [🖼️ View Cert 1](SO3_Cert_1.jpg) | [🖼️ View Cert 2](SO3_Cert_2.jpg)
 * 🛡️ **Construction Occupational Safety & Health (SO2)** | [🖼️ View Certificate](SO2_Cert.jpg)
 * 🏆 **Procore Certified Engineer / Safety Qualified** | [🖼️ View Certificate](Procore_Cert.jpg)
 * 📐 **AutoCAD Drafting with Designing** | [🖼️ View Certificate](AutoCAD_Cert.jpg)
