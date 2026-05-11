@@ -31,7 +31,7 @@ Specializing in high-rise residential buildings (up to 54 storeys), bridge infra
 *   Supervised site civil works and ensured strict implementation of OSH protocols (SO3).
 *   *Key Project:* Construction of flood control dike along Kabacan River, North Cotabato.
 
-### **Technical Staff / Project Engineer**
+### **Civil Engineer**
 **JQ International Construction Inc.** | *July 22, 2022 – Aug 19, 2023*
 *   Coordinated site operations and technical documentation for residential high-rise.
 *   *Key Project:* Spire Tower (48-Storey Residential), Manila.
