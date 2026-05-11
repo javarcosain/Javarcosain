@@ -17,7 +17,7 @@ I am a Senior Civil Engineering Associate with over 9 years of expertise in stru
 ### **Project Engineer**
 **Newington Builder Inc.** | *Aug 25, 2023 – Nov 18, 2024*
 * Managed on-site civil works execution and manpower coordination for flood control projects.
-* **Proof:** [📄 View COE](COE_Newington.jpg.jpg) | [📸 View Site Photo](Work_Photo_Newington.jpg.jpg)
+* **Proof:** [📄 View COE](COE_Newington.jpg.jpg) | [📂 View All Site Photos](Site_Photos/)
 
 ### **Technical Staff / Project Engineer**
 **JQ International Construction Inc.** | *July 22, 2022 – Aug 19, 2023*
