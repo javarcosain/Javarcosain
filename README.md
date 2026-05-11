@@ -45,7 +45,7 @@
 * 🏆 **Procore Certified Engineer:** [🖼️ View Certificate](Procore_Cert.jpg.jpg)
 * 📐 **AutoCAD Drafting & Design:** [🖼️ View Certificate](AutoCAD_Cert.jpg.jpg)
 * 🛠️ **Computer Hardware Servicing NCII:** [🖼️ View Certificate](NCII_Cert.jpg.jpg)
-* 🎓 **Training of Trainers (TOT):** [🖼️ View Certificate](Training%20of%20Trainers%20(TOT)%20on%20Data....jpg)
+* 🎓 **Training of Trainers (TOT):** [🖼️ View Certificate](Training of Trainers (TOT) on Data Privacy Protection.jpg)
 
 ---
 
