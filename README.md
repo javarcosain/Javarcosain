@@ -36,46 +36,41 @@
 ### **Project Engineer**
 **Newington Builder Inc.** | *Aug 25, 2023 – Nov 18, 2024*
 * **Role:** Managed on-site civil works execution and manpower coordination for flood control projects.
-* **Details:** Monitored dike construction progress, conducted daily site inspections, and prepared technical reports. 
-* **Proof:** [🖼️ View COE](COE_Newington.jpg)
+* **Proof:** [🖼️ View COE](COE_Newington.jpg.jpg)
 
 ### **Technical Staff / Project Engineer**
 **JQ International Construction Inc.** | *July 22, 2022 – Aug 19, 2023*
 * **Role:** Provided technical support and monitoring for high-rise residential construction.
-* **Details:** Handled quantity take-offs, monitored concrete pouring schedules, and ensured structural detailing followed design.
-* **Proof:** [🖼️ View COE](COE_JQ.jpg)
+* **Proof:** [🖼️ View COE](COE_JQ.jpg.jpg)
 
 ### **Rebar Engineer**
 **Coogee International Development Inc.** | *Aug 16, 2019 – Jan 31, 2022*
 * **Role:** Specialized in rebar optimization and quantity estimation for premium developments.
-* **Details:** Developed precise Bar Bending Schedules (BBS) to minimize steel wastage. 
-* **Proof:** [🖼️ View COE](COE_Coogee.jpg) | [🖼️ View Sample Plan](Sample_Plan_Coogee.jpg)
+* **Proof:** [🖼️ View COE](COE_Coogee.jpg.jpg) | [🖼️ View Sample Plan](Sample_Plan_Coogee.jpg.jpg)
 
 ### **AutoCAD Operator**
 **MDGRUPPE - Veradical Construction Corp.** | *Oct 08, 2018 – March 15, 2019*
 * **Role:** Technical drafter for diverse civil and structural projects.
-* **Details:** Prepared shop drawings and technical documentation for engineering review.
-* **Proof:** [🖼️ View Proof](COE_MDGRUPPE.jpg)
+* **Proof:** [🖼️ View Proof](COE_MDGRUPPE.jpg.jpg)
 
 ### **AutoCAD Lecturer**
 **PEAIC Inc.** | *March 18, 2016 – May 12, 2018*
 * **Role:** Technical Instructor for AutoCAD software applications.
-* **Details:** Trained engineering students in 2D drafting and 3D modeling.
-* **Proof:** [🖼️ View Proof](COE_PEAIC.jpg)
+* **Proof:** [🖼️ View Proof](COE_PEAIC.jpg.jpg)
 
 ### **CAD Operator**
 **MASCOM Computer Learning Centre** | *Aug 25, 2015 – May 13, 2016*
-* **Role:** Early career technical drafting for basic engineering designs and hardware support.
-* **Proof:** [🖼️ View Proof](COE_MASCOM.jpg)
+* **Role:** Early career technical drafting for basic engineering designs.
+* **Proof:** [🖼️ View Proof](COE_MASCOM.jpg.jpg)
 
 ---
 
 ## 📜 Certifications & Trainings
-* 🛡️ **Advanced OSH: LCM+HIRAC (SO3)** | [🖼️ View Cert 1](SO3_Cert_1.jpg) | [🖼️ View Cert 2](SO3_Cert_2.jpg)
-* 🛡️ **Construction Occupational Safety & Health (SO2)** | [🖼️ View Certificate](SO2_Cert.jpg)
-* 🏆 **Procore Certified Engineer / Safety Qualified** | [🖼️ View Certificate](Procore_Cert.jpg)
-* 📐 **AutoCAD Drafting with Designing** | [🖼️ View Certificate](AutoCAD_Cert.jpg)
-* 🛠️ **Computer Hardware Servicing NCII** | [🖼️ View Certificate](NCII_Cert.jpg)
+* 🛡️ **Advanced OSH: LCM+HIRAC (SO3)** | [🖼️ View Cert 1](SO3_Cert_1.jpg.jpg) | [🖼️ View Cert 2](SO3_Cert_2.jpg.jpg)
+* 🛡️ **Construction Occupational Safety & Health (SO2)** | [🖼️ View Certificate](SO2_Cert.jpg.jpg)
+* 🏆 **Procore Certified Engineer / Safety Qualified** | [🖼️ View Certificate](Procore_Cert.jpg.jpg)
+* 📐 **AutoCAD Drafting with Designing** | [🖼️ View Certificate](AutoCAD_Cert.jpg.jpg)
+* 🛠️ **Computer Hardware Servicing NCII** | [🖼️ View Certificate](NCII_Cert.jpg.jpg)
 
 ---
 
