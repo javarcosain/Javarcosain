@@ -22,7 +22,7 @@ Specializing in high-rise residential buildings (up to 54 storeys), bridge infra
 ## 💼 Work Experience
 
 ### **Structural Drafter / AutoCAD Technical II**
-**CTIPilipinas, Inc.** | *Nov 21, 2024 – Present (May 2026)*
+**CTIPilipinas, Inc.** | *Nov 21, 2024 – Present*
 *   Lead drafter for large-scale hydraulic and bridge infrastructure projects.
 *   *Projects:* Ilog-Hilabangan River Basin, Malabong, Talubangi, and Camugao Bridges.
 
@@ -41,9 +41,17 @@ Specializing in high-rise residential buildings (up to 54 storeys), bridge infra
 *   Specialized in rebar detailing and quantity takeoff for premium BGC developments.
 *   *Key Projects:* Park Triangle 54-Storey Residences, Avida Towers Verge.
 
-### **AutoCAD Operator / Lecturer**
-**PEAIC Inc. / MDGRUPPE** | *Aug 2015 – March 2019*
-*   Technical drafting and providing software instruction for engineering students.
+### **AutoCAD Operator**
+**MDGRUPPE - Veradical Construction Corp.** | *Oct 08, 2018 – March 15, 2019*
+*   Prepared technical construction drawings and as-built plans for various civil works.
+
+### **AutoCAD Lecturer**
+**Philippines Engineering and Agro-Industrial College Inc. (PEAIC)** | *March 18, 2016 – May 12, 2018*
+*   Conducted technical instruction on AutoCAD applications for engineering students.
+
+### **CAD Operator**
+**MASCOM Computer Learning Centre** | *Aug 25, 2015 – May 13, 2016*
+*   Early career drafting services and technical computer-aided design tasks.
 
 ---
 
@@ -53,12 +61,21 @@ Specializing in high-rise residential buildings (up to 54 storeys), bridge infra
 - 🛡️ **Advanced OSH: Loss Control Management + HIRAC (SO3)**
 - 🛡️ **Construction Occupational Safety & Health (SO2)**
 - 🛡️ **Procore Safety Qualified**
+- 🛡️ **Data Privacy Protection Training (DICT)**
 
 ### **Technical & Education**
 - 🎓 **BS in Civil Engineering** – PEAIC Inc. (Graduated: May 12, 2018)
 - 🏆 **Procore Certified Engineer** (2024)
 - 📐 **AutoCAD Drafting with Designing** – MASCOM
 - ⚙️ **Intern Engineer** – DPWH 1st District, CDO (360 Hours)
+
+---
+
+## 👤 Personal Information
+- **Status:** Senior Civil Engineering Graduate
+- **Birth Date:** July 22, 1994
+- **Religion:** Islam
+- **Marital Status:** Married
 
 ---
 
