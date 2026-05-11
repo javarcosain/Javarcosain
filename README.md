@@ -19,7 +19,7 @@ I am a Senior Civil Engineering Associate with over 9 years of expertise in stru
 * Managed on-site civil works execution and manpower coordination for flood control projects.
 * **Proof:** [📄 View COE](COE_Newington.jpg.jpg) | [📂 View All Site Photos](Site_Photos/)
 
-### **Technical Staff / Project Engineer**
+### **Civil Engineer**
 **JQ International Construction Inc.** | *July 22, 2022 – Aug 19, 2023*
 * Provided technical support and monitoring for high-rise residential construction.
 * **Proof:** [📄 View COE](COE_JQ.jpg.jpg) | [🎥 View Work Documentation](Site_Photos/Work_Photo_JQ.mp4)
