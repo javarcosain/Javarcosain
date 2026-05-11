@@ -31,7 +31,7 @@
 **CTIPilipinas, Inc.** | *Nov 21, 2024 – Present*
 * **Role:** Leads the preparation of complex structural plans and hydraulic designs for national infrastructure.
 * **Details:** Responsible for technical drafting of bridge components and river basin layouts. Ensures 100% accuracy in as-built plans and compliance with DPWH standards.
-* **Proof:** [🖼️ View COE](COE_CTI.jpg)
+* **Key Projects:** Ilog-Hilabangan River Basin, Malabong Bridge, Talubangi Bridge, Camugao Bridge.
 
 ### **Project Engineer**
 **Newington Builder Inc.** | *Aug 25, 2023 – Nov 18, 2024*
