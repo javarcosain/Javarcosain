@@ -16,34 +16,41 @@ Highly proficient professional with **10+ years of solid experience** in constru
 
 ### **Structural Drafter / AutoCAD Technical II**
 **CTIPilipinas, Inc.** | *Nov 21, 2024 – Present*
-* Leads the preparation of complex structural plans for national infrastructure projects.
+* Leads the preparation and development of complex structural plans for national infrastructure projects.
+* Ensures technical accuracy and compliance with structural engineering standards and DPWH guidelines.
 
 ### **Project Engineer**
 **Newington Builder Inc.** | *Aug 25, 2023 – Nov 18, 2024*
-* Managed on-site civil works execution and manpower coordination for flood control projects.
+* Managed on-site civil works execution and coordinated manpower for specialized flood control infrastructure projects.
+* Oversees project timelines and material logistics to ensure engineering specifications are met on-site.
 * **Proof:** [📄 View COE](COE_Newington.jpg.jpg) | [📂 View All Site Photos](Site_Photos/)
 
 ### **Civil Engineer**
 **JQ International Construction Inc.** | *July 22, 2022 – Aug 19, 2023*
-* Provided technical support and monitoring for high-rise residential construction.
+* Provided comprehensive technical support and rigorous monitoring for high-rise residential construction developments.
+* Conducted site inspections and quality control assessments to maintain structural integrity.
 * **Proof:** [📄 View COE](COE_JQ.jpg.jpg) | [🎥 View Work Documentation](Work_Photo_JQ/)
   
 ### **Rebar Engineer**
 **Coogee International Development Inc.** | *Aug 16, 2019 – Jan 31, 2022*
-* Specialized in rebar optimization and quantity estimation for premium developments.
+* Specialized in reinforcement bar (rebar) optimization and precise quantity estimation for premium developments.
+* Developed detailed rebar cutting lists and schedules to minimize material waste.
 * **Proof:** [📄 View COE](COE_Coogee.jpg.jpg) | [📑 View Sample Plan](Sample_Plan_Coogee.jpg.jpg) | [📸 View Photos & Videos](Coogee_Photos/)
   
 ### **AutoCAD Operator**
 **MDGRUPPE - Veradical Construction Corp.** | *Oct 08, 2018 – March 15, 2019*
-* Technical drafter for diverse civil and structural projects.
+* Served as a technical drafter for diverse civil and structural projects, producing high-quality blueprints.
 * **Proof:** [📄 View COE](COE_MDGRUPPE.jpg.jpg)
 
 ### **AutoCAD Lecturer**
 **PEAIC Inc.** | *March 18, 2016 – May 12, 2018*
+* Facilitated technical training and lectures on AutoCAD software and industry-standard drafting workflows.
+* Mentored students and professionals in mastering 2D and 3D design principles.
 * **Proof:** [📄 View COE](COE_PEAIC.jpg.jpg)
 
 ### **CAD Operator**
 **MASCOM Computer Learning Centre** | *Aug 25, 2015 – May 13, 2016*
+* Produced technical drawings and layout plans while maintaining high standards of drafting precision.
 * **Proof:** [📄 View COE](COE_MASCOM.jpg.jpg)
 
 ---
