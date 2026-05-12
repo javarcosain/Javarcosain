@@ -3,10 +3,11 @@
 
 Highly proficient professional with **10+ years of solid experience** in construction and civil engineering, balancing advanced technical drafting with comprehensive project management.
 
-- 🏗️ **Construction & Project Management (5.4 Years):** Expertise in high-rise residential (54 storeys), flood control, and bridge projects. Skilled in QA/QC, BOQ, and **Procore**. Certified **Safety Officer (SO3)**.
-- 📐 **Technical Design & Structural Drafting (5.1 Years):** Specialist in **AutoCAD (2D/3D)** and **SketchUp**. Expert in DPWH-standard plans and rebar schedules. Former **AutoCAD Lecturer**.
+- 🏗️ **Project Management (5.4 Years):** Expertise in high-rise residential (54 storeys), infrastructure, and bridges. Skilled in QA/QC, BOQ, and **Procore**. Certified **Safety Officer (SO3)**.
+- 📐 **Structural Detailing (5.1 Years):** Specialist in **AutoCAD (2D/3D)** and **SketchUp**. Expert in DPWH standards and rebar schedules. Former **AutoCAD Instructor** for foundational technical drafting.
+- 🔍 **Quality Control:** Strong focus on plan review, catching dimension errors, and ensuring constructability to prevent field change orders.
 
-*Recognized for consistent accuracy, site safety, and the ability to drive complex projects to completion within timeline and budget constraints.*
+*Recognized for consistent accuracy, commitment to site safety, and the ability to drive complex projects to completion within timeline and budget constraints.*
 
 ---
 
