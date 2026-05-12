@@ -1,5 +1,5 @@
 # Senior Civil Engineering Associate 
-### Structural Detailing Specialist | Production Coordinator
+### Structural Detailing Specialist | Project Management (Procore) | OSH Certified (SO3)
 
 Highly proficient professional with **10+ years of solid experience** in construction and civil engineering, balancing advanced technical drafting with comprehensive project management.
 
