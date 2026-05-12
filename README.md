@@ -81,4 +81,9 @@ Highly proficient professional with **10+ years of solid experience** in constru
 * **Address:** 8-A Dove Str., Area 1 Sitio Veterans, Bagong Silangan, Quezon City
 
 ---
+
+### 📫 Connect with me:
+- **LinkedIn:** [www.linkedin.com/in/javar-cosain-a11378151/]
+- **Email:** [javar.cosain.civil@gmail.com]
+  
 > *I hereby certify that the above information is true and correct.*
