@@ -1,5 +1,5 @@
-# JAVAR ALAJAS COSAIN
-# Senior Civil Engineering Associate | Structural Detailing Specialist
+# Senior Civil Engineering Associate 
+### Structural Detailing Specialist | Production Coordinator
 
 Highly proficient professional with **10+ years of solid experience** in construction and civil engineering, balancing advanced technical drafting with comprehensive project management.
 
