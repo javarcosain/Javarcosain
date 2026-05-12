@@ -29,12 +29,16 @@ Highly proficient professional with **10+ years of solid experience** in constru
 **JQ International Construction Inc.** | *July 22, 2022 – Aug 19, 2023*
 * Provided comprehensive technical support and rigorous monitoring for high-rise residential construction developments.
 * Conducted site inspections and quality control assessments to maintain structural integrity.
+* Quantity Surveying & Estimation:** Managed material take-offs and cost estimation to maintain project budget.
+* Bar Bending Schedules (BBS):** Developed precise steel reinforcement cutting lists to minimize material wastage.
 * **Proof:** [📄 View COE](COE_JQ.jpg.jpg) | [🎥 View Work Documentation](Work_Photo_JQ/)
   
 ### **Rebar Engineer**
 **Coogee International Development Inc.** | *Aug 16, 2019 – Jan 31, 2022*
 * Specialized in reinforcement bar (rebar) optimization and precise quantity estimation for premium developments.
 * Developed detailed rebar cutting lists and schedules to minimize material waste.
+* Estimation:** Managed material take-offs and cost estimation to maintain project budget.
+* Bar Bending Schedules (BBS):** Developed precise steel reinforcement cutting lists to minimize material wastage.
 * **Proof:** [📄 View COE](COE_Coogee.jpg.jpg) | [📑 View Sample Plan](Sample_Plan_Coogee.jpg.jpg) | [📸 View Photos & Videos](Coogee_Photos/)
   
 ### **AutoCAD Operator**
