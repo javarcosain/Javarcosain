@@ -39,7 +39,7 @@ Highly proficient professional with **10+ years of solid experience** in constru
 * Developed detailed rebar cutting lists and schedules to minimize material waste.
 * Estimation: Managed material take-offs and cost estimation to maintain project budget.
 * Bar Bending Schedules (BBS): Developed precise steel reinforcement cutting lists to minimize material wastage.
-* **Proof:** [📄 View COE](COE_Coogee.jpg.jpg) | [📑 View Sample Plan](Sample_Plan_Coogee.jpg.jpg) | [📸 View Photos & Videos](Coogee_Photos/)
+* **Proof:** [📄 View COE](JAVAR%20FOR%20COE.pdf) | [📸 View Photos & Videos](Coogee_Photos/)
   
 ### **AutoCAD Operator**
 **MDGRUPPE - Veradical Construction Corp.** | *Oct 08, 2018 – March 15, 2019*
