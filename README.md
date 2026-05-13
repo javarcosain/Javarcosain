@@ -15,12 +15,12 @@ Highly proficient professional with **10+ years of solid experience** in constru
 *(Technical work history and project involvement)*
 
 ### **Structural Drafter / AutoCAD Technical II**
-**CTIPilipinas, Inc.** | *Nov 21, 2024 – Present*
+**CTIPilipinas, Inc.** | *Nov 13, 2024 – Present*
 * Leads the preparation and development of complex structural plans for national infrastructure projects.
 * Ensures technical accuracy and compliance with structural engineering standards and DPWH guidelines.
 
 ### **Project Engineer**
-**Newington Builder Inc.** | *Aug 25, 2023 – Nov 18, 2024*
+**Newington Builder Inc.** | *Aug 25, 2023 – Nov 7, 2024*
 * Managed on-site civil works execution and coordinated manpower for specialized flood control infrastructure projects.
 * Oversees project timelines and material logistics to ensure engineering specifications are met on-site.
 * **Proof:** [📄 View COE](Newington%20Builders.pdf) | [📂 View All Site Photos](Site_Photos/)
