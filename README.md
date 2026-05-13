@@ -94,7 +94,7 @@ Highly proficient professional with **10+ years of solid experience** in constru
 ---
 
 ### 📫 Connect with me:
-- **LinkedIn:** [www.linkedin.com/in/javar-cosain-a11378151/]
+- **Mobile Number:** [+639542559235]
 - **Email:** [javar.cosain.civil@gmail.com]
   
 > *I hereby certify that the above information is true and correct.*
