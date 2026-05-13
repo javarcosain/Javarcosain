@@ -23,7 +23,7 @@ Highly proficient professional with **10+ years of solid experience** in constru
 **Newington Builder Inc.** | *Aug 25, 2023 – Nov 18, 2024*
 * Managed on-site civil works execution and coordinated manpower for specialized flood control infrastructure projects.
 * Oversees project timelines and material logistics to ensure engineering specifications are met on-site.
-* **Proof:** [📄 View COE](COE_Newington.jpg.jpg) | [📂 View All Site Photos](Site_Photos/)
+* **Proof:** [📄 View COE](Newington%20Builders.pdf) | [📂 View All Site Photos](Site_Photos/)
 
 ### **Civil Engineer**
 **JQ International Construction Inc.** | *July 22, 2022 – Aug 19, 2023*
