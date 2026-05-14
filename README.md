@@ -1,171 +1,100 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Modern Civil Engineering Resume</title>
-<style>
-body{
-  margin:0;
-  font-family: Arial, sans-serif;
-  background:#e9ecef;
-}
-.container{
-  display:flex;
-  max-width:1000px;
-  margin:30px auto;
-  background:#fff;
-  box-shadow:0 10px 30px rgba(0,0,0,0.1);
-}
-.left{
-  width:30%;
-  background:#1f3b57;
-  color:#fff;
-  padding:25px;
-}
-.right{
-  width:70%;
-  padding:30px;
-}
-.profile{
-  text-align:center;
-}
-.profile img{
-  width:120px;
-  height:120px;
-  border-radius:50%;
-  border:3px solid #fff;
-  object-fit:cover;
-}
-h1{
-  font-size:22px;
-  margin:10px 0 5px;
-}
-h2{
-  font-size:14px;
-  font-weight:normal;
-  color:#cfd8e3;
-}
-.section-title{
-  margin-top:25px;
-  font-size:14px;
-  text-transform:uppercase;
-  border-bottom:1px solid rgba(255,255,255,0.3);
-  padding-bottom:5px;
-}
-.left p, .left li{
-  font-size:13px;
-  line-height:1.5;
-}
-.contact p{
-  margin:6px 0;
-  font-size:13px;
-}
-.right h3{
-  color:#1f3b57;
-  margin-bottom:5px;
-}
-.job{
-  margin-bottom:15px;
-}
-.job-title{
-  font-weight:bold;
-}
-.date{
-  font-size:12px;
-  color:gray;
-}
-ul{
-  margin:5px 0 10px 20px;
-}
-.badge{
-  display:inline-block;
-  background:#1f3b57;
-  color:#fff;
-  padding:3px 8px;
-  font-size:11px;
-  border-radius:4px;
-  margin:2px 2px;
-}
-</style>
-</head>
-<body>
+# Senior Civil Engineering Associate 
+### Structural Detailing Specialist | Project Management (Procore) | OSH Certified (SO3)
 
-<div class="container">
+Highly proficient professional with **10+ years of solid experience** in construction and civil engineering, balancing advanced technical drafting with comprehensive project management.
 
-  <!-- LEFT SIDE -->
-  <div class="left">
-    <div class="profile">
-      <img src="profile.jpg" alt="Profile">
-      <h1>Senior Civil Engineering Associate</h1>
-      <h2>Structural Detailing Specialist | Project Management (Procore) | SO3 Certified</h2>
-    </div>
+- 🏗️ **Project Management (5.4 Years):** Expertise in high-rise residential (54 storeys), infrastructure, and bridges. Skilled in QA/QC, BOQ, and **Procore**. Certified **Safety Officer (SO3)**.
+- 📐 **Structural Detailing (5.1 Years):** Specialist in **AutoCAD (2D/3D)** and **SketchUp**. Expert in DPWH standards and rebar schedules. Former **AutoCAD Instructor** for foundational technical drafting.
+- 🔍 **Quality Control:** Strong focus on plan review, catching dimension errors, and ensuring constructability to prevent field change orders.
 
-    <div class="section-title">About</div>
-    <p>Highly experienced civil engineering professional with 10+ years in construction, structural detailing, QA/QC, BOQ, and project management.</p>
+*Recognized for consistent accuracy, commitment to site safety, and the ability to drive complex projects to completion within timeline and budget constraints.*
 
-    <div class="section-title">Skills</div>
-    <span class="badge">AutoCAD</span>
-    <span class="badge">SketchUp</span>
-    <span class="badge">BOQ</span>
-    <span class="badge">QA/QC</span>
-    <span class="badge">Procore</span>
-    <span class="badge">Estimating</span>
+---
 
-    <div class="section-title">Contact</div>
-    <div class="contact">
-      <p>📞 +63 954 255 9235</p>
-      <p>✉️ javar.cosain.civil@gmail.com</p>
-      <p>📍 Quezon City, PH</p>
-    </div>
-  </div>
+## 🏗️ Professional Experience
+*(Technical work history and project involvement)*
 
-  <!-- RIGHT SIDE -->
-  <div class="right">
+### **Structural Drafter / AutoCAD Technical II**
+**CTIPilipinas, Inc.** | *Nov 13, 2024 – Present*
+* Leads the preparation and development of complex structural plans for national infrastructure projects.
+* Ensures technical accuracy and compliance with structural engineering standards and DPWH guidelines.
 
-    <h3>Professional Summary</h3>
-    <p>Expert civil engineer with strong background in structural detailing, project management, and construction execution. Proven ability to handle high-rise and infrastructure projects with precision and efficiency.</p>
+### **Project Engineer**
+**Newington Builder Inc.** | *Aug 25, 2023 – Nov 7, 2024*
+* Managed on-site civil works execution and coordinated manpower for specialized flood control infrastructure projects.
+* Oversees project timelines and material logistics to ensure engineering specifications are met on-site.
+* **Proof:** [📄 View COE](Newington%20Builders.pdf) | [📂 View All Site Photos](Site_Photos/)
 
-    <h3>Experience</h3>
+### **Civil Engineer**
+**JQ International Construction Inc.** | *July 22, 2022 – Aug 19, 2023*
+* Provided comprehensive technical support and rigorous monitoring for high-rise residential construction developments.
+* Conducted site inspections and quality control assessments to maintain structural integrity.
+* Quantity Surveying & Estimation: Managed material take-offs and cost estimation to maintain project budget.
+* Bar Bending Schedules (BBS): Developed precise steel reinforcement cutting lists to minimize material wastage.
+* **Proof:** [📄 View COE](COE_JQ.jpg.jpg) | [🎥 View Work Documentation](Work_Photo_JQ/)
+  
+### **Rebar Engineer**
+**Coogee International Development Inc.** | *Aug 16, 2019 – Jan 31, 2022*
+* Specialized in reinforcement bar (rebar) optimization and precise quantity estimation for premium developments.
+* Developed detailed rebar cutting lists and schedules to minimize material waste.
+* Estimation: Managed material take-offs and cost estimation to maintain project budget.
+* Bar Bending Schedules (BBS): Developed precise steel reinforcement cutting lists to minimize material wastage.
+* **Proof:** [📄 View COE](JAVAR%20FOR%20COE.pdf) | [📸 View Photos & Videos](Coogee_Photos/)
+  
+### **AutoCAD Operator**
+**MDGRUPPE - Veradical Construction Corp.** | *Oct 08, 2018 – March 15, 2019*
+* Served as a technical drafter for diverse civil and structural projects, producing high-quality blueprints.
+* **Proof:** [📄 View COE](COE_MDGRUPPE.jpg.jpg)
 
-    <div class="job">
-      <div class="job-title">Structural Drafter / AutoCAD Technical II - CTIPilipinas</div>
-      <div class="date">2024 - Present</div>
-      <ul>
-        <li>Structural drafting for infrastructure projects</li>
-        <li>DPWH compliance and technical accuracy</li>
-      </ul>
-    </div>
+### **AutoCAD Lecturer**
+**PEAIC Inc.** | *March 18, 2016 – May 12, 2018*
+* Facilitated technical training and lectures on AutoCAD software and industry-standard drafting workflows.
+* Mentored students and professionals in mastering 2D and 3D design principles.
+* **Proof:** [📄 View COE](COE_PEAIC.jpg.jpg)
 
-    <div class="job">
-      <div class="job-title">Project Engineer - Newington Builder Inc.</div>
-      <div class="date">2023 - 2024</div>
-      <ul>
-        <li>Site supervision and project coordination</li>
-        <li>Material and timeline management</li>
-      </ul>
-    </div>
+### **CAD Operator**
+**MASCOM Computer Learning Centre** | *Aug 25, 2015 – May 13, 2016*
+* Produced technical drawings and layout plans while maintaining high standards of drafting precision.
+* **Proof:** [📄 View COE](COE_MASCOM.jpg.jpg)
 
-    <div class="job">
-      <div class="job-title">Civil Engineer - JQ International Construction</div>
-      <div class="date">2022 - 2023</div>
-      <ul>
-        <li>QA/QC inspection and site monitoring</li>
-        <li>Quantity surveying and cost estimation</li>
-      </ul>
-    </div>
+---
 
-    <h3>Education & Certifications</h3>
-    <ul>
-      <li>SO3 Safety Officer Certified</li>
-      <li>Procore Certified</li>
-      <li>AutoCAD Professional Training</li>
-      <li>DPWH Technical Training</li>
-    </ul>
+## 📜 Technical Training & Certifications
+*(Specialized engineering trainings and safety certifications)*
 
-  </div>
+* 🏗️ **DPWH Intern Training:** [🖼️ View Certificate](DPWH%20Certificate%20Of%20Training.jpg)
+* 🛡️ **Advanced OSH (SO3):** [🖼️ Cert 1](SO3_Cert_1.jpg.jpg) | [🖼️ Cert 2](SO3_Cert_2.jpg.jpg)
+* 🛡️ **Construction OSH (SO2):** [🖼️ View Certificate](SO2_Cert.jpg.jpg)
+* 🏆 **Procore Certified Engineer:** [🖼️ View Certificate](Procore_Cert.jpg.jpg)
+* 📐 **AutoCAD Drafting & Design:** [🖼️ View Certificate](AutoCAD_Cert.jpg.jpg)
+* 🛠️ **Computer Hardware Servicing NCII:** [🖼️ View Certificate](NCII_Cert.jpg.jpg)
+* 🎓 **Training of Trainers (TOT):** [🖼️ View Certificate](<Training of Trainers (TOT) on Data Privacy Protection.jpg>)
 
-</div>
+---
 
-</body>
-</html>
+### 📐 **Personal AutoCAD Portfolio**
+*(Personal drafting samples and technical designs)*
+
+* **Technical Design:** [📂 View PDF & CAD Files](AutoCAD_Samples/Technical_Design/)
+* **Structural Detailing:** [📂 View PDF & CAD Files](AutoCAD_Samples/Structural/)
+
+### 📊 **Project Cost Estimation**
+*(Quantity surveying and cost documentation)*
+
+* **Cost Estimate:** [📂 View Documents & Excel Files](Cost_Estimate_Files/)
+
+---
+
+## 👤 Personal Details
+* **Date of Birth:** July 22, 1994 
+* **Religion:** Islam 
+* **Civil Status:** Married
+* **Address:** 8-A Dove Str., Area 1 Sitio Veterans, Bagong Silangan, Quezon City
+
+---
+
+### 📫 Connect with me:
+- **Mobile Number:** [+639542559235]
+- **Email:** [javar.cosain.civil@gmail.com]
+  
+> *I hereby certify that the above information is true and correct.*
