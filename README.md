@@ -1,68 +1,88 @@
-<div align="center">
+<table border="0">
+  <tr>
+    <!-- LEFT COLUMN: Education, Skills, Languages, Contact -->
+    <td width="35%" bgcolor="#E0E0E0" valign="top" style="padding: 20px;">
+      <div align="center">
+        <!-- Palitan ito ng link ng iyong profile picture kung meron na -->
+        <img src="https://via.placeholder.com/150" width="150" style="border-radius: 50%; border: 10px solid #C0C0C0;">
+      </div>
+      <br>
+      
+      <h3>EDUCATION</h3>
+      <hr>
+      <p><b>2015 - 2018</b><br>Bachelor of Civil Engineering<br><i>(Iyong University)</i></p>
+      
+      <h3>SKILLS</h3>
+      <hr>
+      <ul>
+        <li>AutoCAD (2D/3D)</li>
+        <li>SketchUp</li>
+        <li>Project Management</li>
+        <li>Structural Detailing</li>
+        <li>DPWH Standards</li>
+      </ul>
 
-<div style="background-color: #fcfcfc; border: 1px solid #d1d5da; border-radius: 10px; padding: 30px; text-align: left; max-width: 850px; box-shadow: 0 10px 25px rgba(0,0,0,0.1); border-left: 10px solid #283583;">
+      <h3>LANGUAGES</h3>
+      <hr>
+      <ul>
+        <li>English</li>
+        <li>Tagalog</li>
+        <li>Maranao</li>
+      </ul>
 
-# Senior Civil Engineering Associate 
-### Structural Detailing Specialist | Project Management (Procore) | OSH Certified (SO3)
+      <h3>CONTACT</h3>
+      <hr>
+      <p>
+        📞 +639542559235<br>
+        📧 javar.cosain.civil@gmail.com<br>
+        📍 Quezon City
+      </p>
+    </td>
 
-![AutoCAD](https://img.shields.io/badge/AutoCAD-0645AD?style=for-the-badge&logo=autodesk&logoColor=white) ![Procore](https://img.shields.io/badge/Procore-283583?style=for-the-badge&logo=procore&logoColor=white) ![Safety](https://img.shields.io/badge/Safety_Officer-SO3-orange?style=for-the-badge)
+    <!-- RIGHT COLUMN: Name, Profile Info, Experience -->
+    <td width="65%" valign="top" style="padding: 20px;">
+      <h1 style="color: #444;">JAVAR COSAIN</h1>
+      <h3 style="color: #666;">Senior Civil Engineering Associate</h3>
+      
+      <br>
+      <h3>PROFILE INFO</h3>
+      <hr>
+      <p>Highly proficient professional with <b>10+ years of solid experience</b> in construction and civil engineering, balancing advanced technical drafting with comprehensive project management. Specialist in AutoCAD (2D/3D), DPWH standards, and Procore.</p>
 
-Highly proficient professional with **10+ years of solid experience** in construction and civil engineering, balancing advanced technical drafting with comprehensive project management.
+      <h3>EXPERIENCE</h3>
+      <hr>
+      
+      <p><b>2024 - Present</b><br>
+      <b>Structural Drafter / AutoCAD Technical II</b><br>
+      CTIPilipinas, Inc.</p>
+      
+      <p><b>2023 - 2024</b><br>
+      <b>Project Engineer</b><br>
+      Newington Builder Inc.<br>
+      🔗 <a href="Newington%20Builders.pdf">View COE</a> | <a href="Site_Photos/">Site Photos</a></p>
 
-- 🏗️ **Project Management (5.4 Years):** Expertise in high-rise residential (54 storeys), infrastructure, and bridges. Skilled in QA/QC, BOQ, and **Procore**. Certified **Safety Officer (SO3)**.
-- 📐 **Structural Detailing (5.1 Years):** Specialist in **AutoCAD (2D/3D)** and **SketchUp**. Expert in DPWH standards and rebar schedules. Former **AutoCAD Instructor** for foundational technical drafting.
-- 🔍 **Quality Control:** Strong focus on plan review, catching dimension errors, and ensuring constructability to prevent field change orders.
+      <p><b>2022 - 2023</b><br>
+      <b>Civil Engineer</b><br>
+      JQ International Construction Inc.<br>
+      🔗 <a href="COE_JQ.jpg.jpg">View COE</a> | <a href="Work_Photo_JQ/">Documentation</a></p>
 
----
+      <p><b>2019 - 2022</b><br>
+      <b>Rebar Engineer</b><br>
+      Coogee International Development Inc.<br>
+      🔗 <a href="JAVAR%20FOR%20COE.pdf">View COE</a></p>
 
-## 🏗️ Professional Experience
-*(Technical work history and project involvement)*
-
-### **Structural Drafter / AutoCAD Technical II**
-**CTIPilipinas, Inc.** | *Nov 13, 2024 – Present*
-* Leads the preparation and development of complex structural plans for national infrastructure projects.
-* Ensures technical accuracy and compliance with structural engineering standards and DPWH guidelines.
-
-### **Project Engineer**
-**Newington Builder Inc.** | *Aug 25, 2023 – Nov 7, 2024*
-* Managed on-site civil works execution and coordinated manpower for specialized flood control infrastructure projects.
-* **Proof:** [📄 View COE](Newington%20Builders.pdf) | [📂 View All Site Photos](Site_Photos/)
-
-### **Civil Engineer**
-**JQ International Construction Inc.** | *July 22, 2022 – Aug 19, 2023*
-* Provided comprehensive technical support and rigorous monitoring for high-rise residential construction developments.
-* **Proof:** [📄 View COE](COE_JQ.jpg.jpg) | [🎥 View Work Documentation](Work_Photo_JQ/)
-
-### **Rebar Engineer**
-**Coogee International Development Inc.** | *Aug 16, 2019 – Jan 31, 2022*
-* Specialized in reinforcement bar (rebar) optimization and precise quantity estimation for premium developments.
-* **Proof:** [📄 View COE](JAVAR%20FOR%20COE.pdf) | [📸 View Photos & Videos](Coogee_Photos/)
-
-### **AutoCAD Operator & Lecturer**
-* **MDGRUPPE - Veradical Construction Corp.** (2018–2019)
-* **PEAIC Inc.** (2016–2018)
-* **MASCOM Computer Learning Centre** (2015–2016)
-* **Proof:** [📄 COE MDGRUPPE](COE_MDGRUPPE.jpg.jpg) | [📄 COE PEAIC](COE_PEAIC.jpg.jpg) | [📄 COE MASCOM](COE_MASCOM.jpg.jpg)
-
----
-
-## 📜 Technical Training & Certifications
-* 🛡️ **Advanced OSH (SO3):** [Cert 1](SO3_Cert_1.jpg.jpg) | [Cert 2](SO3_Cert_2.jpg.jpg)
-* 🏆 **Procore Certified Engineer:** [View Certificate](Procore_Cert.jpg.jpg)
-* 📐 **AutoCAD Drafting & Design:** [View Certificate](AutoCAD_Cert.jpg.jpg)
-* 🎓 **Training of Trainers (TOT):** [View Certificate](<Training of Trainers (TOT) on Data Privacy Protection.jpg>)
-
----
-
-## 👤 Personal Details
-* **Birthday:** July 22, 1994 | **Religion:** Islam | **Civil Status:** Married
-* **Address:** 8-A Dove Str., Area 1 Sitio Veterans, Bagong Silangan, Quezon City
-* 📧 **[javar.cosain.civil@gmail.com](mailto:javar.cosain.civil@gmail.com)** | 📞 **+639542559235**
-
-<div align="right">
-<i>I hereby certify that the above information is true and correct.</i>
-</div>
-
-</div>
-
-</div>
+      <h3>CERTIFICATIONS</h3>
+      <hr>
+      <ul>
+        <li>Advanced OSH (SO3)</li>
+        <li>Procore Certified Engineer</li>
+        <li>DPWH Intern Training</li>
+      </ul>
+      
+      <br>
+      <div align="right">
+        <i>I hereby certify that the above information is true and correct.</i>
+      </div>
+    </td>
+  </tr>
+</table>
