@@ -49,8 +49,8 @@
       <h3>PROFILE INFO</h3>
       <hr>
       <p>Highly proficient professional with <b>10+ years of solid experience</b> in construction and civil engineering, balancing advanced technical drafting with comprehensive project management.</p>
-     <br>
-      <h3 style="border-bottom: 2px solid #666;">EXPERIENCE</h3>
+     <h3>EXPERIENCE</h3>
+      <hr style="border: 0; border-top: 1px solid #ccc;">
 
       <p><b>Structural Drafter / AutoCAD Technical II</b><br>
       CTIPilipinas, Inc. | 2024 – Present</p>
@@ -61,35 +61,37 @@
 
       <p><b>Civil Engineer</b><br>
       JQ International Construction Inc. | 2022 – 2023<br>
-      <a href="COE_JQ.jpg.jpg">View COE</a> | <a href="Work_Photo_JQ/">Documentation</a></p>
+      <a href="COE_JQ.jpg">View COE</a> | <a href="Work_Photo_JQ/">Documentation</a></p>
 
       <p><b>Rebar Engineer</b><br>
       Coogee International Development Inc. | 2019 – 2022<br>
-      <a href="JAVAR%20FOR%20COE.pdf">View COE</a> | <a href="Coogee_Photos/">Photos/Videos</a></p>
+      <a href="JAVAR%20FOR%20COE.pdf">View COE</a></p>
 
       <p><b>AutoCAD Operator</b><br>
       MDGRUPPE - Veradical Construction | 2018 – 2019<br>
-      <a href="COE_MDGRUPPE.jpg.jpg">View COE</a></p>
+      <a href="COE_MDGRUPPE.jpg">View COE</a></p>
 
       <p><b>AutoCAD Lecturer</b><br>
       PEAIC Inc. | 2016 – 2018<br>
       • Mentored students in mastering 2D and 3D design principles.<br>
-      <a href="COE_PEAIC.jpg.jpg">View COE</a></p>
+      <a href="COE_PEAIC.jpg">View COE</a></p>
 
       <p><b>CAD Operator</b><br>
       MASCOM Computer Learning Centre | 2015 – 2016<br>
       • Produced technical drawings and layout plans.<br>
-      <a href="COE_MASCOM.jpg.jpg">View COE</a></p>
+      <a href="COE_MASCOM.jpg">View COE</a></p>
 
       <br>
       <h3 style="border-bottom: 2px solid #666;">TRAINING & CERTIFICATIONS</h3>
       <ul style="padding-left: 20px;">
         <li>🏗️ <b>DPWH Training:</b> <a href="DPWH%20Certificate%20Of%20Training.jpg">View Cert</a></li>
-        <li>🛡️ <b>OSH (SO3 & SO2):</b> <a href="SO3_Cert_1.jpg.jpg">SO3 Cert</a> | <a href="SO2_Cert.jpg.jpg">SO2 Cert</a></li>
-        <li>🏆 <b>Procore Certified:</b> <a href="Procore_Cert.jpg.jpg">View Cert</a></li>
-        <li>📐 <b>AutoCAD Design:</b> <a href="AutoCAD_Cert.jpg.jpg">View Cert</a></li>
+        <li>🛡️ <b>OSH (SO3 & SO2):</b> <a href="SO3_Cert_1.jpg">SO3 Cert</a> | <a href="SO2_Cert.jpg">SO2 Cert</a></li>
+        <li>🏆 <b>Procore Certified:</b> <a href="Procore_Cert.jpg">View Cert</a></li>
         <li>🎓 <b>Training of Trainers:</b> <a href="Training%20of%20Trainers%20(TOT)%20on%20Data%20Privacy%20Protection.jpg">View Cert</a></li>
       </ul>
+    </td> <!-- ITO ANG IMPORTANTE: Isara ang kanang column -->
+  </tr> <!-- Isara ang row -->
+</table> <!-- Isara ang buong table -->
 
 ---
 ### 📐 PERSONAL PORTFOLIO
