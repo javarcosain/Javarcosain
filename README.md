@@ -45,14 +45,6 @@
         <li>Training of Trainers</li>
         <li>NCII Hardware Servicing</li>
       </ul>
-      <br>
-      <h3> &nbsp; LANGUAGES</h3>
-      <hr>
-      <ul>
-        <li>English</li>
-        <li>Tagalog</li>
-        <li>Maranao</li>
-      </ul>
     </td>
     <!-- MAIN CONTENT -->
     <td width="67%" valign="top">
@@ -69,24 +61,30 @@
       <p><b>Structural Drafter / AutoCAD Technical II</b><br>
       <i>CTIPilipinas, Inc. | Nov 2024 – Present</i><br>
       • Leads preparation of complex structural plans for national infra projects following DPWH guidelines.</p>
+      
       <p><b>Project Engineer</b><br>
       <i>Newington Builder Inc. | Aug 2023 – Nov 2024</i><br>
-      • Managed flood control projects and manpower. <a href="Newington%20Builders.pdf">📄 COE</a></p>
+      • Managed flood control projects and manpower. 📄 <a href="Newington%20Builders.pdf">COE</a></p>
+      
       <p><b>Civil Engineer</b><br>
       <i>JQ International Construction Inc. | July 2022 – Aug 2023</i><br>
-      • QA/QC for high-rise residential; handled BBS and Quantity Surveying. <a href="COE_JQ.jpg.jpg">📄 COE</a></p>
+      • QA/QC for high-rise residential; handled BBS and Quantity Surveying. 📄 <a href="COE_JQ.jpg.jpg">COE</a></p>
+      
       <p><b>Rebar Engineer</b><br>
       <i>Coogee International Development | Aug 2019 – Jan 2022</i><br>
-      • Specialized in rebar optimization and waste reduction. <a href="JAVAR%20FOR%20COE.pdf">📄 COE</a></p>
+      • Specialized in rebar optimization and waste reduction. 📄 <a href="JAVAR%20FOR%20COE.pdf">COE</a></p>
+      
       <p><b>AutoCAD Operator</b><br>
       <i>MDGRUPPE - Veradical Construction | Oct 2018 – Mar 2019</i><br>
-      • Technical drafting for diverse structural projects. <a href="COE_MDGRUPPE.jpg.jpg">📄 COE</a></p>
+      • Technical drafting for diverse structural projects. 📄 <a href="COE_MDGRUPPE.jpg.jpg">COE</a></p>
+      
       <p><b>AutoCAD Lecturer</b><br>
       <i>PEAIC Inc. | Mar 2016 – May 2018</i><br>
-      • Facilitated technical training and 2D/3D design principles. <a href="COE_PEAIC.jpg.jpg">📄 COE</a></p>
+      • Facilitated technical training and 2D/3D design principles. 📄 <a href="COE_PEAIC.jpg.jpg">COE</a></p>
+      
       <p><b>CAD Operator</b><br>
       <i>MASCOM Computer Learning Centre | Aug 2015 – May 2016</i><br>
-      • Produced technical drawings and layout plans. <a href="COE_MASCOM.jpg.jpg">📄 COE</a></p>
+      • Produced technical drawings and layout plans. 📄 <a href="COE_MASCOM.jpg.jpg">COE</a></p>
       <br>
       <h3> 📂 PORTFOLIO & PROJECTS</h3>
       <hr>
