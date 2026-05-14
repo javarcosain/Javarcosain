@@ -1,226 +1,164 @@
-export default function JavarResumePortfolio() {
-  const experiences = [
-    {
-      title: 'Structural Drafter / AutoCAD Technical II',
-      company: 'CTIPilipinas, Inc.',
-      date: 'Nov 2024 – Present',
-      details: [
-        'Preparation of structural plans for infrastructure projects',
-        'DPWH-compliant drafting and detailing',
-        'Structural coordination and drawing revisions'
-      ]
-    },
-    {
-      title: 'Project Engineer',
-      company: 'Newington Builder Inc.',
-      date: 'Aug 2023 – Nov 2024',
-      details: [
-        'Managed flood control infrastructure projects',
-        'Site supervision and manpower coordination',
-        'QA/QC inspection and progress monitoring'
-      ]
-    },
-    {
-      title: 'Civil Engineer',
-      company: 'JQ International Construction Inc.',
-      date: 'Jul 2022 – Aug 2023',
-      details: [
-        'QA/QC for high-rise residential projects',
-        'Quantity Surveying and Cost Estimation',
-        'Bar Bending Schedule (BBS) preparation'
-      ]
-    },
-    {
-      title: 'Rebar Engineer',
-      company: 'Coogee International Development Inc.',
-      date: 'Aug 2019 – Jan 2022',
-      details: [
-        'Rebar optimization and quantity estimation',
-        'Reinforcement detailing and cutting lists',
-        'Material waste reduction planning'
-      ]
-    }
-  ];
+<div align="center">
 
-  const skills = [
-    'AutoCAD 2D/3D',
-    'Structural Detailing',
-    'Quantity Surveying',
-    'Cost Estimation',
-    'QA/QC Inspection',
-    'Project Engineering',
-    'Procore',
-    'SketchUp',
-    'BBS Preparation',
-    'DPWH Standards'
-  ];
+# 👷 JAVAR COSAIN
 
-  const certifications = [
-    'Advanced Occupational Safety and Health (SO3)',
-    'Construction Occupational Safety and Health (SO2)',
-    'Procore Certified Engineer',
-    'AutoCAD Drafting & Design',
-    'Training of Trainers (TOT)',
-    'Computer Hardware Servicing NCII'
-  ];
+### Senior Civil Engineering Associate  
+#### Structural Detailing Specialist • QA/QC • Quantity Surveying • Project Engineering
 
-  return (
-    <div className="min-h-screen bg-slate-100 p-6 md:p-12">
-      <div className="max-w-6xl mx-auto bg-white shadow-2xl rounded-3xl overflow-hidden grid md:grid-cols-3">
-        {/* Sidebar */}
-        <div className="bg-slate-900 text-white p-8">
-          <div className="text-center">
-            <div className="w-32 h-32 mx-auto rounded-full bg-slate-700 flex items-center justify-center text-4xl font-bold mb-4">
-              JC
-            </div>
-            <h1 className="text-3xl font-bold">Javar Cosain</h1>
-            <p className="text-slate-300 mt-2 text-sm">
-              Senior Civil Engineering Associate
-            </p>
-          </div>
+<p>
+  <img src="https://img.shields.io/badge/AutoCAD-2D%2F3D-blue?style=for-the-badge&logo=autodesk&logoColor=white">
+  <img src="https://img.shields.io/badge/Procore-Certified-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Safety_Officer-SO3-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Experience-10%2B_Years-black?style=for-the-badge">
+</p>
 
-          <div className="mt-10 space-y-6">
-            <div>
-              <h2 className="text-xl font-semibold border-b border-slate-700 pb-2 mb-3">
-                Contact
-              </h2>
-              <div className="space-y-2 text-sm text-slate-300">
-                <p>📍 Quezon City, Philippines</p>
-                <p>📞 +63 954 255 9235</p>
-                <p>📧 javar.cosain.civil@gmail.com</p>
-              </div>
-            </div>
+📍 Quezon City, Philippines • 📧 javar.cosain.civil@gmail.com • 📱 +63 954 255 9235
 
-            <div>
-              <h2 className="text-xl font-semibold border-b border-slate-700 pb-2 mb-3">
-                Skills
-              </h2>
-              <div className="flex flex-wrap gap-2">
-                {skills.map((skill, index) => (
-                  <span
-                    key={index}
-                    className="bg-slate-700 px-3 py-1 rounded-full text-xs"
-                  >
-                    {skill}
-                  </span>
-                ))}
-              </div>
-            </div>
+</div>
 
-            <div>
-              <h2 className="text-xl font-semibold border-b border-slate-700 pb-2 mb-3">
-                Certifications
-              </h2>
-              <ul className="space-y-2 text-sm text-slate-300 list-disc pl-5">
-                {certifications.map((cert, index) => (
-                  <li key={index}>{cert}</li>
-                ))}
-              </ul>
-            </div>
+---
 
-            <div>
-              <h2 className="text-xl font-semibold border-b border-slate-700 pb-2 mb-3">
-                Education
-              </h2>
-              <p className="text-sm text-slate-300">
-                Bachelor of Science in Civil Engineering
-              </p>
-              <p className="text-xs text-slate-400">2014 – 2018</p>
-            </div>
-          </div>
-        </div>
+# 🚀 Professional Summary
 
-        {/* Main Content */}
-        <div className="md:col-span-2 p-8 md:p-10">
-          <section>
-            <h2 className="text-3xl font-bold text-slate-800 mb-4">
-              Professional Summary
-            </h2>
-            <p className="text-slate-600 leading-8 text-justify">
-              Highly proficient Civil Engineering Professional with 10+ years of
-              combined experience in structural detailing, construction
-              coordination, QA/QC inspection, quantity surveying, and project
-              engineering. Experienced in handling high-rise residential,
-              infrastructure, bridge, and flood control projects while ensuring
-              technical accuracy, constructability, and compliance with DPWH
-              standards.
-            </p>
-          </section>
+Highly proficient Civil Engineering Professional with **10+ years of experience** in:
 
-          <section className="mt-10">
-            <h2 className="text-3xl font-bold text-slate-800 mb-6">
-              Professional Experience
-            </h2>
+✔ Structural Detailing  
+✔ AutoCAD Drafting  
+✔ Quantity Surveying  
+✔ Cost Estimation  
+✔ QA/QC Inspection  
+✔ Project Engineering  
+✔ Construction Coordination  
 
-            <div className="space-y-8">
-              {experiences.map((exp, index) => (
-                <div
-                  key={index}
-                  className="border-l-4 border-slate-800 pl-6"
-                >
-                  <div className="flex flex-col md:flex-row md:items-center md:justify-between">
-                    <div>
-                      <h3 className="text-xl font-semibold text-slate-800">
-                        {exp.title}
-                      </h3>
-                      <p className="text-slate-600 font-medium">
-                        {exp.company}
-                      </p>
-                    </div>
-                    <span className="text-sm text-slate-500 mt-2 md:mt-0">
-                      {exp.date}
-                    </span>
-                  </div>
+Experienced in handling:
 
-                  <ul className="mt-4 space-y-2 text-slate-600 list-disc pl-5">
-                    {exp.details.map((detail, idx) => (
-                      <li key={idx}>{detail}</li>
-                    ))}
-                  </ul>
-                </div>
-              ))}
-            </div>
-          </section>
+- 🏗️ High-rise residential buildings (up to 54 storeys)
+- 🌉 Infrastructure and bridge projects
+- 🌊 Flood control construction
+- 📐 Reinforcement detailing and BBS preparation
 
-          <section className="mt-10 grid md:grid-cols-2 gap-6">
-            <div className="bg-slate-100 rounded-2xl p-6">
-              <h3 className="text-2xl font-bold text-slate-800 mb-4">
-                Engineering Expertise
-              </h3>
-              <ul className="space-y-3 text-slate-600">
-                <li>✔ Structural Detailing</li>
-                <li>✔ Quantity Surveying</li>
-                <li>✔ Cost Estimation</li>
-                <li>✔ QA/QC Inspection</li>
-                <li>✔ Construction Coordination</li>
-              </ul>
-            </div>
+Recognized for technical accuracy, constructability review, rebar optimization, and minimizing costly field revisions through detailed engineering coordination.
 
-            <div className="bg-slate-100 rounded-2xl p-6">
-              <h3 className="text-2xl font-bold text-slate-800 mb-4">
-                Software & Tools
-              </h3>
-              <ul className="space-y-3 text-slate-600">
-                <li>✔ AutoCAD 2D/3D</li>
-                <li>✔ Procore</li>
-                <li>✔ SketchUp</li>
-                <li>✔ Microsoft Excel</li>
-                <li>✔ DPWH Standards</li>
-              </ul>
-            </div>
-          </section>
+---
 
-          <section className="mt-10 bg-slate-900 text-white rounded-3xl p-8">
-            <h2 className="text-3xl font-bold mb-4">Career Objective</h2>
-            <p className="leading-8 text-slate-300">
-              To contribute technical expertise in structural detailing,
-              project engineering, and construction management while supporting
-              efficient, safe, and high-quality project execution for local and
-              international engineering projects.
-            </p>
-          </section>
-        </div>
-      </div>
-    </div>
-  );
-}
+# 💼 Professional Experience
+
+## 🏗️ Structural Drafter / AutoCAD Technical II
+### CTIPilipinas, Inc.
+📅 Nov 2024 – Present
+
+- Preparation of structural plans and reinforcement detailing
+- DPWH-compliant infrastructure drafting
+- Structural coordination and CAD revisions
+
+---
+
+## 🏗️ Project Engineer
+### Newington Builder Inc.
+📅 Aug 2023 – Nov 2024
+
+- Managed flood control infrastructure projects
+- Supervised manpower and project coordination
+- Conducted QA/QC inspection and progress monitoring
+
+📄 [View COE](Newington%20Builders.pdf)
+
+---
+
+## 🏢 Civil Engineer
+### JQ International Construction Inc.
+📅 Jul 2022 – Aug 2023
+
+- QA/QC for high-rise residential projects
+- Quantity Surveying and Cost Estimation
+- Bar Bending Schedule (BBS) preparation
+- Structural site inspection and coordination
+
+📄 [View COE](COE_JQ.jpg.jpg)
+
+---
+
+## 🔩 Rebar Engineer
+### Coogee International Development Inc.
+📅 Aug 2019 – Jan 2022
+
+- Reinforcement detailing and rebar optimization
+- Quantity take-off and material estimation
+- Rebar cutting lists and waste reduction planning
+
+📄 [View COE](JAVAR%20FOR%20COE.pdf)
+
+---
+
+## 📐 AutoCAD Operator
+### MDGRUPPE - Veradical Construction Corp.
+📅 Oct 2018 – Mar 2019
+
+- Structural drafting and CAD layout preparation
+- Engineering drawing revisions and coordination
+
+---
+
+## 🎓 AutoCAD Lecturer
+### PEAIC Inc.
+📅 Mar 2016 – May 2018
+
+- Conducted AutoCAD drafting lectures and technical training
+- Mentored students in 2D drafting and 3D design principles
+
+---
+
+# 🛠️ Technical Skills
+
+| Engineering Skills | Software & Tools |
+|---|---|
+| Structural Detailing | AutoCAD 2D/3D |
+| Quantity Surveying | Procore |
+| Cost Estimation | SketchUp |
+| QA/QC Inspection | Microsoft Excel |
+| Project Engineering | DPWH Standards |
+| Construction Coordination | BBS Preparation |
+
+---
+
+# 📜 Certifications
+
+- 🛡️ Advanced Occupational Safety and Health (SO3)
+- 🛡️ Construction Occupational Safety and Health (SO2)
+- 🏆 Procore Certified Engineer
+- 📐 AutoCAD Drafting & Design
+- 🎓 Training of Trainers (TOT)
+- 🛠️ Computer Hardware Servicing NCII
+
+---
+
+# 📂 Portfolio
+
+## 📐 Structural Detailing
+[View Portfolio](AutoCAD_Samples/Structural/)
+
+## 🏗️ Technical Design
+[View CAD Files](AutoCAD_Samples/Technical_Design/)
+
+## 📊 Cost Estimation
+[View Documents](Cost_Estimate_Files/)
+
+---
+
+# 👤 Personal Information
+
+- **Date of Birth:** July 22, 1994
+- **Civil Status:** Married
+- **Religion:** Islam
+- **Location:** Quezon City, Philippines
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect
+
+📧 **javar.cosain.civil@gmail.com**  
+📱 **+63 954 255 9235**
+
+</div>
