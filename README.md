@@ -1,96 +1,57 @@
-# Senior Civil Engineering Associate 
-### Structural Detailing Specialist | Project Management (Procore) | OSH Certified (SO3)
+# JAVAR COSAIN
+### Senior Civil Engineering Associate | Structural Detailing Specialist
+**Project Management (Procore) | OSH Certified (SO3) | 10+ Years Experience**
 
 ---
 
-<table border="0" width="100%">
-  <tr>
-    <!-- KALIWANG COLUMN: Personal Info & Education (Gray Background Effect) -->
-    <td width="35%" bgcolor="#F4F4F4" valign="top" style="padding: 20px; border-right: 1px solid #ddd;">
-      
-      <div align="center">
-        <!-- Kung may photo ka, palitan ang 'your-photo.jpg' ng file name mo -->
-        <img src="your-photo.jpg" width="150" style="border-radius: 50%; border: 5px solid #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      </div>
+## 👤 Profile Summary
+Highly proficient professional with **10+ years of solid experience** in construction and civil engineering, balancing advanced technical drafting with comprehensive project management.
 
-      <h3 style="border-bottom: 2px solid #666;">CONTACT</h3>
-      <p>
-        📍 8-A Dove Str., Quezon City<br>
-        📧 [javar.cosain.civil@gmail.com](mailto:javar.cosain.civil@gmail.com)<br>
-        📞 +639542559235
-      </p>
+*   🏗️ **Project Management (5.4 Years):** Expertise in high-rise residential, infrastructure, and bridges.
+*   📐 **Structural Detailing (5.1 Years):** Specialist in AutoCAD (2D/3D) and SketchUp.
+*   🛡️ **Safety & Quality:** Certified Safety Officer (SO3) with a focus on QA/QC and constructability.
 
-      <h3 style="border-bottom: 2px solid #666;">SKILLS</h3>
-      <ul>
-        <li>AutoCAD (2D/3D) & SketchUp</li>
-        <li>Structural Detailing</li>
-        <li>Project Management (Procore)</li>
-        <li>DPWH Standards</li>
-        <li>QA/QC & Rebar Schedules</li>
-      </ul>
+---
 
-      <h3 style="border-bottom: 2px solid #666;">CERTIFICATIONS</h3>
-      <ul>
-        <li>🛡️ <b>OSH (SO3 & SO2)</b></li>
-        <li>🏗️ <b>Procore Certified</b></li>
-        <li>🎓 <b>Training of Trainers</b></li>
-        <li>🛠️ <b>NCII Hardware</b></li>
-      </ul>
+## 🏗️ Professional Experience
 
-      <h3 style="border-bottom: 2px solid #666;">PERSONAL</h3>
-      <p>
-        <b>Birth:</b> July 22, 1994<br>
-        <b>Religion:</b> Islam<br>
-        <b>Status:</b> Married
-      </p>
-    </td>
+### **Structural Drafter / AutoCAD Technical II**
+**CTIPilipinas, Inc.** | *Nov 13, 2024 – Present*
+*   Leads preparation of complex structural plans for national infrastructure projects.
 
-    <!-- KANANG COLUMN: Experience & Projects -->
-    <td width="65%" valign="top" style="padding: 20px;">
-      
-      <h2 style="color: #444;">JONATHAN PATTERSON (JAVAR COSAIN)</h2>
-      <p><i>10+ Years of Solid Experience in Construction and Civil Engineering</i></p>
-      
-      <hr>
+### **Project Engineer**
+**Newington Builder Inc.** | *Aug 25, 2023 – Nov 7, 2024*
+*   Managed on-site civil works for specialized flood control infrastructure.
+*   **Proof:** [📄 View COE](Newington%20Builders.pdf) | [📂 View Site Photos](Site_Photos/)
 
-      <h3>🏗️ WORK EXPERIENCE</h3>
+### **Civil Engineer**
+**JQ International Construction Inc.** | *July 22, 2022 – Aug 19, 2023*
+*   Technical support and monitoring for high-rise residential developments.
+*   **Proof:** [📄 View COE](COE_JQ.jpg.jpg) | [🎥 View Documentation](Work_Photo_JQ/)
 
-      <p><b>Structural Drafter / AutoCAD Technical II</b><br>
-      <i>CTIPilipinas, Inc. | 2024 – Present</i><br>
-      Leads complex structural plans for national infrastructure.</p>
+### **Rebar Engineer**
+**Coogee International Development Inc.** | *Aug 16, 2019 – Jan 31, 2022*
+*   Specialized in rebar optimization and Bar Bending Schedules (BBS).
+*   **Proof:** [📄 View COE](JAVAR%20FOR%20COE.pdf) | [📸 View Photos](Coogee_Photos/)
 
-      <p><b>Project Engineer</b><br>
-      <i>Newington Builder Inc. | 2023 – 2024</i><br>
-      Managed flood control projects and site execution.<br>
-      🔗 <a href="Newington%20Builders.pdf">View COE</a> | <a href="Site_Photos/">Site Photos</a></p>
+---
 
-      <p><b>Civil Engineer</b><br>
-      <i>JQ International Construction | 2022 – 2023</i><br>
-      High-rise residential technical monitoring & QA/QC.<br>
-      🔗 <a href="COE_JQ.jpg.jpg">View COE</a> | <a href="Work_Photo_JQ/">Documentation</a></p>
+## 📜 Technical Training & Certifications
+*   🛡️ **Advanced OSH (SO3 & SO2):** [Cert 1](SO3_Cert_1.jpg.jpg) | [Cert 2](SO3_Cert_2.jpg.jpg)
+*   🏆 **Procore Certified Engineer:** [View Certificate](Procore_Cert.jpg.jpg)
+*   🏗️ **DPWH Training:** [View Certificate](DPWH%20Certificate%20Of%20Training.jpg)
+*   🎓 **Training of Trainers:** [View Certificate](<Training of Trainers (TOT) on Data Privacy Protection.jpg>)
 
-      <p><b>Rebar Engineer</b><br>
-      <i>Coogee International Development | 2019 – 2022</i><br>
-      Rebar optimization and quantity surveying.<br>
-      🔗 <a href="JAVAR%20FOR%20COE.pdf">View COE</a> | <a href="Coogee_Photos/">Photos/Videos</a></p>
+---
 
-      <p><b>AutoCAD Lecturer / Operator</b><br>
-      <i>PEAIC Inc. / MDGRUPPE | 2016 – 2019</i><br>
-      Technical drafting and professional software mentoring.</p>
+## 📐 Portfolio & Contact
+*   📂 **AutoCAD Samples:** [Technical Design](AutoCAD_Samples/Technical_Design/) | [Structural](AutoCAD_Samples/Structural/)
+*   📊 **Estimation Files:** [Cost Documentation](Cost_Estimate_Files/)
 
-      <hr>
+**Connect with me:**
+*   📧 [javar.cosain.civil@gmail.com](mailto:javar.cosain.civil@gmail.com)
+*   📞 +639542559235
+*   📍 Quezon City | Married | Islam
 
-      <h3>📐 TECHNICAL PORTFOLIO</h3>
-      <ul>
-        <li><b>Structural Detailing:</b> <a href="AutoCAD_Samples/Structural/">View Files</a></li>
-        <li><b>Technical Design:</b> <a href="AutoCAD_Samples/Technical_Design/">View Files</a></li>
-        <li><b>Cost Estimation:</b> <a href="Cost_Estimate_Files/">View Excel/Docs</a></li>
-      </ul>
-
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <p><i>I hereby certify that the above information is true and correct.</i></p>
-</div>
+---
+> *I hereby certify that the above information is true and correct.*
